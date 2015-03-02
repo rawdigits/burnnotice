@@ -1,5 +1,7 @@
 # NOTICE: THIS WILL DELETE EVERY PUBLIC MESSAGE IN EVERY CHANNEL. THIS CANNOT BE UNDONE.
 
+This will *not* delete DMs or messages in private groups. This only affects public conversations.
+
 # burnnotice
 Destroy the entire public history of your Slack group. This includes messages beyond the 10,000 limit that you cannot see in a free tier group.
 
