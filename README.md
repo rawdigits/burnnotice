@@ -6,6 +6,7 @@ Destroy the entire public history of your Slack group. This includes messages be
 # Requirements
 
 Must be run by an admin.
+
 python
 
 # Howto
