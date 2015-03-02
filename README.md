@@ -15,7 +15,7 @@ python
 
 1. git clone https://github.com/rawdigits/burnnotice.git
 2. Get a web api token here [https://api.slack.com/web](https://api.slack.com/web)
-3. Run an export here [https://creednation.slack.com/services/export?started=1](https://creednation.slack.com/services/export?started=1)
+3. Run an export here [https://[yourdomain].slack.com/services/export?started=1](https://creednation.slack.com/services/export?started=1)
 4. Download the resulting file in #3 to the burnnotice directory
 5. MAKE DAMN SURE YOU WANT TO DO THIS
 6. python burnnotice.py [api token from #2] [filename from #4]
